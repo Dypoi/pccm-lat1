@@ -1,4 +1,4 @@
-FROM Alpine
+FROM alpine
 
 LABEL   Maintainer="DY" \
         Kelas="Pengantar Cloud Computing"
